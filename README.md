@@ -1,10 +1,10 @@
 ![composuite](./composuite.png?raw=true)
 
 <div align="center">
-  <strong><sub>IT-Servicemanagement & Helpdesk Software
+  <strong><sub>IT-Servicemanagement & Helpdesk Software</sub></strong>
 </div>
 <div align="center">
-  Issue Tracker & Roadmap
+  Bug Tracker & Roadmap
 </div>
 
 <br />
@@ -34,46 +34,51 @@
 
 <div align="center">
   <sub><a href="https://composuite.de">composuite</a> - IT-Servicemanagement & Helpdesk von
-  <a href="https://tencesoft.de">tencesoft</a>
+  <a href="https://tencesoft.de">tencesoft</a></sub>
 </div>
 
 ---
 
-**Dieses Repository dient zur Veröffentlichung der Roadmap sowie der Aufnahme von Bugs, Diskussionen und Feedback.**
+Dieses Repository dient zur Veröffentlichung der Roadmap sowie der Aufnahme von Bugs, Diskussionen und Feedback.
 
 <div>
   <sub>Für weitere Informationen zum Produkt besuchen Sie bitte
-  <a href="https://composuite.de">composuite.de</a>
+  <a href="https://composuite.de">composuite.de</a></sub>
 </div>
 
-## Inhalt
+</br>
+</br>
 
-- [Roadmap](#roadmap)
-- [Issues](#issues)
-- [Releases](#releases)
+- [Bug Tracker](https://github.com/tencesoft/composuite/issues)
+- [Roadmap](https://github.com/orgs/tencesoft/projects/6)
+- [Release Notes](https://github.com/tencesoft/composuite/releases)
+
+</br>
+
+## Bug Tracker
+
+- [Frage stellen](https://github.com/tencesoft/composuite/issues/new?template=frage.md)
+- [Fehler Melden](https://github.com/tencesoft/composuite/issues/new?template=bug_report.md)
+- [Idee einreichen](https://github.com/tencesoft/composuite/issues/new?template=feature-idee.md)
+
+Ein Bugtracker hilft bei der Entwicklung von Software, indem er alle gemeldeten Fehler und Verbesserungsvorschläge organisiert und nachverfolgbar macht. Er ermöglicht es Entwicklern, diese Probleme zu priorisieren, zuzuweisen und ihre Lösung systematisch zu verfolgen. Somit können Nutzerfeedback und Probleme effektiv adressiert werden, um die Software kontinuierlich nach den Vorstellungen des Anwenders zu verbessern.
+
+- [Alle einsehen](https://github.com/tencesoft/composuite/issues)
 
 ## Roadmap
 
-Eine Produkt-Roadmap ist ein strategisches Dokument, das die geplanten Funktionen und Verbesserungen eines IT-Servicemanagement-Systems über einen bestimmten Zeitraum darstellt. Diese Roadmap visualisiert die Entwicklungsprioritäten und bietet einen Überblick über die zukünftige Ausrichtung des Produkts.
+<a href="https://github.com/orgs/tencesoft/projects/6">Roadmap anzeigen</a>
 
-**Die Roadmap gliedert sich in drei Hauptkategorien:**
+Diese Roadmap visualisiert die Entwicklungsprioritäten und bietet einen Überblick über die zukünftige Ausrichtung des Produkts.
 
-- **Entwicklung:** Diese Kategorie enthält Funktionen und Verbesserungen, die sich bereits in der Entwicklung befinden oder kurz davor sind, gestartet zu werden.
+Die Roadmap gliedert sich in drei Hauptkategorien:
 
-- **Priorisierung**: Hier sind die geplanten Funktionen und Verbesserungen aufgeführt, die nach Priorisierung in die Entwicklung überführt werden.
-
-- **In Planung**: In dieser Kategorie sind Funktionen und Verbesserungen enthalten, die als strategische Ziele identifiziert wurden oder Ideen darstellen, welche berücksichtigt werden sollen, aber einen längeren Entwicklungszyklus oder weitere Planung erfordern.
+| Kategorie         | Beschreibung                                                                                                                                                                                                                      |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Entwicklung**   | Diese Kategorie enthält Funktionen und Verbesserungen, die sich bereits in der Entwicklung befinden oder kurz davor sind, gestartet zu werden.                                                                                    |
+| **Priorisierung** | Hier sind die Funktionen und Verbesserungen aufgeführt, die bereits geplant sind. Es wird die Priorität festegelegt und ein sinvoller Zeitpunkt zur Entwicklung festegelegt.                                                      |
+| **In Planung**    | In dieser Kategorie sind Funktionen und Verbesserungen enthalten, die als strategische Ziele identifiziert wurden oder Ideen darstellen, welche berücksichtigt werden sollen, allerdings noch geplant und bewertet werden müssen. |
 
 Die Roadmap ist interaktiv gestaltet und ermöglicht es Benutzern, Feedback zu den geplanten Funktionen zu geben und ihre eigenen Vorschläge einzureichen. Benutzer können Funktionen priorisieren, indem sie ihre Wichtigkeit bewerten, und sie können Kommentare hinterlassen, um Kontext oder zusätzliche Überlegungen zu liefern. Dieser partizipative Ansatz ermöglicht es, das Produkt stärker an den Bedürfnissen und Erwartungen der Benutzer auszurichten.
 
 Die Aktualisierungen der Roadmap werden in regelmäßigen Abständen vorgenommen, um die neuesten Entwicklungen, Prioritätenänderungen und den Fortschritt der Funktionenentwicklung widerzuspiegeln.
-
-Roadmap: <a href="https://composuite.de">composuite.de</a>
-
-## Issues
-
-Erscheint in Kürze.
-
-## Releases
-
-Erscheint in Kürze.
