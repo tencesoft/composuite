@@ -4,7 +4,7 @@
   <strong><sub>IT-Servicemanagement & Helpdesk Software</sub></strong>
 </div>
 <div align="center">
-  Bug Tracker & Roadmap
+  Bug Tracker, Ideen, Features & Roadmap
 </div>
 
 <br />
@@ -49,25 +49,25 @@ Dieses Repository dient zur Veröffentlichung der Roadmap sowie der Aufnahme von
 </br>
 </br>
 
-- [Bug Tracker](https://github.com/tencesoft/composuite/issues)
+- [Bugs, Ideen, Features](https://github.com/tencesoft/composuite/issues)
 - [Roadmap](https://github.com/orgs/tencesoft/projects/6)
 - [Release Notes](https://github.com/tencesoft/composuite/releases)
 
 </br>
 
-## Bug Tracker
+## Bugs, Ideen, Features
+
+[Alle anzeigen](https://github.com/tencesoft/composuite/issues)
+
+Ein Bugtracker hilft bei der Entwicklung von Software, indem er alle gemeldeten Fehler und Verbesserungsvorschläge organisiert und nachverfolgbar macht. Er ermöglicht es Entwicklern, diese Probleme zu priorisieren, zuzuweisen und ihre Lösung systematisch zu verfolgen. Somit können Nutzerfeedback und Probleme effektiv adressiert werden, um die Software kontinuierlich nach den Vorstellungen des Anwenders zu verbessern.
 
 - [Frage stellen](https://github.com/tencesoft/composuite/issues/new?template=frage.md)
 - [Fehler Melden](https://github.com/tencesoft/composuite/issues/new?template=bug_report.md)
 - [Idee einreichen](https://github.com/tencesoft/composuite/issues/new?template=feature-idee.md)
 
-Ein Bugtracker hilft bei der Entwicklung von Software, indem er alle gemeldeten Fehler und Verbesserungsvorschläge organisiert und nachverfolgbar macht. Er ermöglicht es Entwicklern, diese Probleme zu priorisieren, zuzuweisen und ihre Lösung systematisch zu verfolgen. Somit können Nutzerfeedback und Probleme effektiv adressiert werden, um die Software kontinuierlich nach den Vorstellungen des Anwenders zu verbessern.
-
-- [Alle einsehen](https://github.com/tencesoft/composuite/issues)
-
 ## Roadmap
 
-<a href="https://github.com/orgs/tencesoft/projects/6">Roadmap anzeigen</a>
+[Roadmap anzeigen](https://github.com/orgs/tencesoft/projects/6)
 
 Diese Roadmap visualisiert die Entwicklungsprioritäten und bietet einen Überblick über die zukünftige Ausrichtung des Produkts.
 
